@@ -1,0 +1,2 @@
+# UBiMAXTanxAdapter
+UBiMAXTanxAdapter
